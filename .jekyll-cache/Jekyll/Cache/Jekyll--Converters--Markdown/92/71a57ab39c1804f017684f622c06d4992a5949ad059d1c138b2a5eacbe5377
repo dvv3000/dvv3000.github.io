@@ -1,0 +1,38 @@
+I"/<h1 id="dang-van-viet">Dang Van Viet</h1>
+<p>Student, PHP Intern.</p>
+
+<div id="webaddress">
+<a href="isaac@applesdofall.org">Github</a>
+| <a href="https://www.facebook.com/dangviet3000z">Facebook</a>
+</div>
+
+<h2 id="currently"><em>Currently</em></h2>
+
+<p>Being in the internship in VNP Group as PHP Intern</p>
+<h3 id="specialized-in"><em>Specialized in</em></h3>
+
+<p>Systems of Information and Communication (<strong>SIC</strong>)</p>
+
+<h3 id="domain-interests"><em>Domain interests</em></h3>
+
+<p>Web service, Computer Vision, …</p>
+<h3 id="skills"><em>Skills</em></h3>
+<ul>
+  <li>Frontend: HTML, CSS, JavaScript,…</li>
+  <li>Backend: PHP, Laravel</li>
+  <li>Other: Python, …
+    <h2 id="education"><em>Education</em></h2>
+  </li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2015-2018</code>
+<strong>Nguyen Hue High School for Gifted Student, Ha Noi.</strong></p>
+
+<p><code class="language-plaintext highlighter-rouge">2018 - now</code>
+<strong>Hanoi University of Science and Technology</strong></p>
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
+:ET
